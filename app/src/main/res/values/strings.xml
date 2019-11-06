@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">apk_lamon</string>
+    <string name="logo">logo</string>
+    <string name="bg.png">bg.png</string>
+    <string name="rectangle5.png">reactangle.png</string>
+    <string name="verify">verify</string>
+    <string name="gbr.png">gbr.png</string>
+    <string name="Name">Name</string>
+    <string name="enter_verification_code">Enter Verification Code</string>
+    <string name="bg1.png">bg1.png</string>
+    <string name="gbr1.png">gbr1.png</string>
+    <string name="gbr2.png">gbr1.png</string>
+    <string name="run.png">run.png</string>
+    <string name="gbr3.png">gbr.png</string>
+    <string name="lansia.png">lansia.png</string>
+    <string name="heart.png">heart.png</string>
+    <string name="gps.png">gps.png</string>
+</resources>
